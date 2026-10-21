@@ -1,0 +1,10 @@
+Welcome to Rust Programming
+week 9 - Rust File Input & Output
+Department of Computer Science
+Lager, Stout, Non-alcoholic
+33 Export, Legend, Maltina
+Desperados, Turbo King, Amstel Malta
+Goldberg, Williams, Malta Gold
+Gulder, ,Fayrouz
+Heineken, , ,
+Star, , 
