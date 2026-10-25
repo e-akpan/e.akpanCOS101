@@ -1,0 +1,10 @@
+Name: Oluchi Mordi   |  Matric Number: ACC10211111    | Department: Accounting     | Level: 300
+
+Name: Adams Aliyu     |  Matric Number: ECO10110101      | Department: Economics     | Level: 100
+
+Name: Shania Bolade   |  Matric Number: CSC10328828    | Department: Computer     | Level: 200
+
+Name: Adekunle Gold   |  Matric Number: EEE11020202    | Department: Electrical     | Level: 200
+
+Name: Blanca Edemoh   |  Matric Number: MEE10202001    | Department: Mechanical     | Level: 100
+
